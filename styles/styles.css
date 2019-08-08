@@ -1,0 +1,31 @@
+html {
+    font-family: 'Noto Serif KR', sans-serif;
+    background-color: aliceblue;
+}
+
+body {
+    margin: 0, auto;
+    background-color: azure;
+    padding: 0 20px 20px 20px;
+    border: 5px solid coral;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: chartreuse;
+    text-shadow: 0 0 10px blue;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-size: 16px;
+    color: red;
+    line-height: 2;
+    letter-spacing: 1px;
+}
