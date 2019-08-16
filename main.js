@@ -12,7 +12,7 @@ var app = http.createServer(function (request,response) {
         <head>
             <meta charset="utf-8">
             <title>${this.title}</title>
-            <link href="styles/styles.css?ver=1" rel="stylesheet" type="text/css">
+            <link href="styles/styles.css" rel="stylesheet" type="text/css">
             <link href="https://fonts.googleapis.com/css?family=Noto+Serif+KR" rel="stylesheet">
         </head>
         <body>
